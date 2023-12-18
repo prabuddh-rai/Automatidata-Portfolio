@@ -1,2 +1,2 @@
 # Automatidata-Portfolio
-Completed a portfolio project while completing google certificate
+Completed a portfolio project while completing data analytics google certificate
